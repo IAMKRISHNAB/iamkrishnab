@@ -14,8 +14,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|
 |          Fundamentals of Cybersecurity        |
 |  Networking                                   |
-|        Linux                                  | 
+|        Linux                                   |
+| Ethical Hacking                        
+| Identity and Access Management                |
+| Computer Forensics Investigation using OS Tools|
+| Web Application Security Testing or Penetration Testing|
+|Darknet and Deep Web Exploration|
 |       Splunk SIEM                             |
+
 
 
 ## Tools
@@ -26,6 +32,25 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
+### Web Application VAPT
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF0000?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
+</div>
+
+
+### Ethical Hacking and Cybersecurity:
+<div>
+    <img src="https://img.shields.io/badge/-XIAO%20Steganography-FF0000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SET%20Toolkit%20in%20Kali%20Linux-000000?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CAIN%20AND%20ABEL-FF0000?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Computer Forensics Investigation using OS Tools:
+<div>
+      <img src="https://img.shields.io/badge/-FTK%20Imager-FF0000?&style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/-OS%20Forensics%20Tool%20(Windows%20Forensics%20Analysis)-FF0000?&style=for-the-badge&logo=Windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/-ExifTool%20(Photo%20Forensics%20in%20Kali%20Linux)-000000?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+</div>
 
 ### SIEM
 <div>
