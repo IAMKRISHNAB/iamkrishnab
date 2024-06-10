@@ -1,23 +1,54 @@
-<h1 align="center">Hi 👋, I'm B.KRISHNA</h1>
-<h3 align="center">Passionate Cybersecurity Enthusiast and Aspiring SOC Analyst, Future CISO from India</h3>
+# Hello, I'm B.KRISHNA
+<a href="https://www.linkedin.com/in/krishna-balasubramanian-7b3920277C"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkrishnab&label=Profile%20views&color=0e75b6&style=flat" alt="iamkrishnab" /> </p>
+I am  pursuing  Bachelor of Science in Computer Science from SRM University with a strong passion for cybersecurity.  I am eager to contribute as a Tier 1 Analyst in a Security Operations Center (SOC), focusing on protecting digital assets and mitigating security threats.
+## Objective
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Password Strength Checker**
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-- 🌱 I’m currently learning **Splunk Enterprise Security**
+## Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/krishna-balasubramanian-7b3920277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-balasubramanian-7b3920277" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+| Skill                                         | 
+|-----------------------------------------------|
+|          Fundamentals of Cybersecurity        |
+|  Networking                                   |
+|        Linux                                  | 
+|       Splunk SIEM                             |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkrishnab&show_icons=true&locale=en&layout=compact" alt="iamkrishnab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkrishnab&" alt="iamkrishnab" /></p>
+## Tools
 
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />   
+</div>
+
+## Certifications
+Identity and Access Management (IAM) - TCS
+
+
+Introduction to Splunk - Splunk
+
+
+Certified Cyber Warrior (CCW) - Hackingflix
+
+
+Introduction to Cybersecurity - Simplilearn
+
+
+Monitoring Network Traffic using SIEM - Cybrary
+
+
+Introduction to IT & Cybersecurity - Cybrary
+
+## Projects
+- Password Strength Checker
